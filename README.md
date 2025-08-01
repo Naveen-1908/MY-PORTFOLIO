@@ -23,7 +23,7 @@ This is my **dark-themed animated portfolio website**, built with modern fronten
 
 ## 📸 Demo
 
-🔗 [Live Demo](https://naveenprasath08.netlify.app)
+🔗 [Live Demo](https://naveen08prasath.netlify.app)
 
 ## 📁 Folder Structure
 
